@@ -1,0 +1,1 @@
+SleepTrack Android project for GitHub Actions. Upload ALL files and folders to the root of your GitHub repository, including .github/workflows/main.yml. Go to Actions > Build SleepTrack APK > Run workflow. Download SleepTrack-APK from Artifacts after successful build.
