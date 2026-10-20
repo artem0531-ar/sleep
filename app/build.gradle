@@ -1,12 +1,11 @@
-plugins { id 'com.android.application' }
-
 android {
-    compileSdk 33
+    namespace 'com.sleeptrack.app'
+
+    compileSdk 35
+
     defaultConfig {
         applicationId 'com.sleeptrack.app'
         minSdk 23
-        targetSdk 28
-        versionCode 1
-        versionName '1.0'
+        targetSdk 35
     }
 }
